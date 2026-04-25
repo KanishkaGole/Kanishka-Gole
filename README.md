@@ -3,8 +3,6 @@
 AI / Backend Developer building end-to-end systems — from model development to deployment.  
 Focus on computer vision, NLP pipelines, and scalable backend architecture.
 
-MBA Tech (Artificial Intelligence), NMIMS Mumbai · Class of 2028  
-
 ---
 
 ## Tech Stack
